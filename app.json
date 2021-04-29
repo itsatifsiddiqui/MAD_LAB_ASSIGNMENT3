@@ -1,0 +1,12 @@
+{
+  "name": "LabAssignment3",
+  "displayName": "LabAssignment3",
+  "expo": {
+    "name": "LabAssignment3",
+    "slug": "LabAssignment3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
